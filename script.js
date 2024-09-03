@@ -1,3 +1,3 @@
 function myfunk() {
-    console.log("this is function");
-}
+    console.log("Hello");
+};
